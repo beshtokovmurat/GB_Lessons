@@ -1,24 +1,18 @@
-﻿Console.Clear();
-Console.WriteLine("Введите координату X1 точки А");
-int X1  = Convert.ToInt32(Console.ReadLine());
+﻿
+// Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
+Console.Clear();
+Console.Write("Введите любое число N: ");
+int N  = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine("Введите координату Y1 точки А");
-int Y1  = Convert.ToInt32(Console.ReadLine());
+int s = 0;
+int n1 = N;
 
-Console.WriteLine("Введите координату Z1 точки A");
-int Z1  = Convert.ToInt32(Console.ReadLine());
-
-Console.WriteLine("Введите координату X2 точки B");
-int X2  = Convert.ToInt32(Console.ReadLine());
-
-Console.WriteLine("Введите координату Y2 точки B");
-int Y2  = Convert.ToInt32(Console.ReadLine());
-
-Console.WriteLine("Введите координату Z2 точки B");
-int Z2  = Convert.ToInt32(Console.ReadLine());
-
-
-double d = Math.Sqrt(Math.Pow(X2-X1,2)+Math.Pow(Y2-Y1,2)+Math.Pow(Z2-Z1,2));
+while (n1 > 0)
+    {
+    s = s + n1 % 10;     
+    n1 = n1/10;
+    }
 
 Console.WriteLine("Результат");
-Console.WriteLine("Расстояние " + Math.Round(d,2));
+Console.WriteLine($"Cумма цифр в числе:  {s}");
+// Console.WriteLine("Cумма цифр в числе: " + s);

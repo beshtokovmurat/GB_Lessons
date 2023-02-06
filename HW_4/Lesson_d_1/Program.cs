@@ -1,24 +1,21 @@
-﻿Console.Clear();
-Console.WriteLine("Введите пятизначное число:");
-int n  = Convert.ToInt32(Console.ReadLine());
+﻿// Требуется вычислить, сколько раз встречается некоторое число X в массиве A[1..N].
+Console.Clear();
+Console.Write("Введите количество элементов массива A[1..N]: ");
+int N = Convert.ToInt32(Console.ReadLine());
 
-int a = 0, b = 0, c = 0, d = 0, e = 0;
-
-Console.WriteLine("Результат");
-
-if (n<10000 && n>99999)
-    Console.WriteLine("Ошибка! Введите пятизначное число");
-else if (n>10000 && n<99999)
+Console.WriteLine("Введите элементы массива A[1..N]:");
+int[] A = new int[N];
+for (int i = 0; i < N; i++)
     {
-    a = n / 10000;
-    b = (n / 1000) % 10;
-    c = (n / 100) % 10;
-    d = (n / 10) % 10;
-    e = n % 10;
+    Console.Write($"A[{i}]: ");
+    A[i] = Convert.ToInt32(Console.ReadLine());    
     }
-Console.WriteLine(a + ", " + b + ", " + c + ", " + d + ", " + e);
 
-if (a == e && b == d)
-    Console.WriteLine("Да.  рассматриваемое число " + n  + " является полиндромом");
-else   
-    Console.WriteLine("Нет.  рассматриваемое число " + n  + " не является полиндромом");
+Console.Write("Введите число Х: ");
+int X  = Convert.ToInt32(Console.ReadLine());
+
+int k = 0;
+
+for (int i = 0; i < A.Length; i++)
+    if (X == A[i]) k++;
+Console.WriteLine("число X в массиве A[1..N] встречается " + k  + " раз (а)");

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\fleshka 31.12.2022\\Murat\\Программирование\\C#\\GB_program\\GB_Lessons\\HW_3\\Lesson_19\\Lesson_4.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Программирование\\C#\\GB_Lessons\\HW_4\\Lesson_d_1\\Lesson_4.csproj",
       "projectName": "Lesson_4",
-      "projectPath": "E:\\fleshka 31.12.2022\\Murat\\Программирование\\C#\\GB_program\\GB_Lessons\\HW_3\\Lesson_19\\Lesson_4.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\Программирование\\C#\\GB_Lessons\\HW_4\\Lesson_d_1\\Lesson_4.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\fleshka 31.12.2022\\Murat\\Программирование\\C#\\GB_program\\GB_Lessons\\HW_3\\Lesson_19\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\Программирование\\C#\\GB_Lessons\\HW_4\\Lesson_d_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
