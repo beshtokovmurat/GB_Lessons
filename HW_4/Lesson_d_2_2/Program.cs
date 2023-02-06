@@ -13,7 +13,7 @@ for (int i = 0; i < N; i++)
     A[i] = Convert.ToInt32(Console.ReadLine());    
     }
 
-Console.Write($"Введите число {0} < K < {N}: ");
+Console.Write($"Введите число {0} < |K| < {N}: ");
 int K  = Convert.ToInt32(Console.ReadLine());
 int temp = 0;
 int p = 0;

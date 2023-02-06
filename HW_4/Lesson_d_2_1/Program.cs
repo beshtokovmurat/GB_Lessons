@@ -14,13 +14,25 @@ for (int i = 0; i < N; i++)
     A[i] = Convert.ToInt32(Console.ReadLine());    
     }
 
-Console.Write($"Введите число {0} < K < {N}: ");
+Console.Write($"Введите число {0} < |K| < {N}: ");
 int K  = Convert.ToInt32(Console.ReadLine());
 
-for (int i = 0; i < A.Length - K; i++)
-    B[i + K] = A[i];
-for (int i = A.Length - K; i < A.Length; i++)
-    B[i + K - A.Length] = A[i];
+if (K > 0)
+    {
+    for (int i = 0; i < A.Length - K; i++)
+        B[i + K] = A[i];
+    for (int i = A.Length - K; i < A.Length; i++)
+        B[i + K - A.Length] = A[i];
+    }
+
+if (K < 0)
+    {
+    int K1 = N + K;    
+    for (int i = 0; i < A.Length - K1; i++)
+        B[i + K1] = A[i];
+    for (int i = A.Length - K1; i < A.Length; i++)
+        B[i + K1 - A.Length] = A[i];
+    }
 
 Console.WriteLine("Результат:");
 
