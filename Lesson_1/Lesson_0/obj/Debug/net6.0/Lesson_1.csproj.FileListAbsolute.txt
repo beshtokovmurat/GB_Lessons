@@ -1,0 +1,45 @@
+E:\fleshka 31.12.2022\Murat\Программирование\C#\GB_program\Lesson_1\bin\Debug\net6.0\Lesson_1.exe
+E:\fleshka 31.12.2022\Murat\Программирование\C#\GB_program\Lesson_1\bin\Debug\net6.0\Lesson_1.deps.json
+E:\fleshka 31.12.2022\Murat\Программирование\C#\GB_program\Lesson_1\bin\Debug\net6.0\Lesson_1.runtimeconfig.json
+E:\fleshka 31.12.2022\Murat\Программирование\C#\GB_program\Lesson_1\bin\Debug\net6.0\Lesson_1.dll
+E:\fleshka 31.12.2022\Murat\Программирование\C#\GB_program\Lesson_1\bin\Debug\net6.0\Lesson_1.pdb
+E:\fleshka 31.12.2022\Murat\Программирование\C#\GB_program\Lesson_1\obj\Debug\net6.0\Lesson_1.csproj.AssemblyReference.cache
+E:\fleshka 31.12.2022\Murat\Программирование\C#\GB_program\Lesson_1\obj\Debug\net6.0\Lesson_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\fleshka 31.12.2022\Murat\Программирование\C#\GB_program\Lesson_1\obj\Debug\net6.0\Lesson_1.AssemblyInfoInputs.cache
+E:\fleshka 31.12.2022\Murat\Программирование\C#\GB_program\Lesson_1\obj\Debug\net6.0\Lesson_1.AssemblyInfo.cs
+E:\fleshka 31.12.2022\Murat\Программирование\C#\GB_program\Lesson_1\obj\Debug\net6.0\Lesson_1.csproj.CoreCompileInputs.cache
+E:\fleshka 31.12.2022\Murat\Программирование\C#\GB_program\Lesson_1\obj\Debug\net6.0\Lesson_1.dll
+E:\fleshka 31.12.2022\Murat\Программирование\C#\GB_program\Lesson_1\obj\Debug\net6.0\refint\Lesson_1.dll
+E:\fleshka 31.12.2022\Murat\Программирование\C#\GB_program\Lesson_1\obj\Debug\net6.0\Lesson_1.pdb
+E:\fleshka 31.12.2022\Murat\Программирование\C#\GB_program\Lesson_1\obj\Debug\net6.0\Lesson_1.genruntimeconfig.cache
+E:\fleshka 31.12.2022\Murat\Программирование\C#\GB_program\Lesson_1\obj\Debug\net6.0\ref\Lesson_1.dll
+C:\Users\Admin\Desktop\Программирование\C#\GB_program\Lesson_1\bin\Debug\net6.0\Lesson_1.exe
+C:\Users\Admin\Desktop\Программирование\C#\GB_program\Lesson_1\bin\Debug\net6.0\Lesson_1.deps.json
+C:\Users\Admin\Desktop\Программирование\C#\GB_program\Lesson_1\bin\Debug\net6.0\Lesson_1.runtimeconfig.json
+C:\Users\Admin\Desktop\Программирование\C#\GB_program\Lesson_1\bin\Debug\net6.0\Lesson_1.dll
+C:\Users\Admin\Desktop\Программирование\C#\GB_program\Lesson_1\bin\Debug\net6.0\Lesson_1.pdb
+C:\Users\Admin\Desktop\Программирование\C#\GB_program\Lesson_1\obj\Debug\net6.0\Lesson_1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Программирование\C#\GB_program\Lesson_1\obj\Debug\net6.0\Lesson_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Программирование\C#\GB_program\Lesson_1\obj\Debug\net6.0\Lesson_1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Программирование\C#\GB_program\Lesson_1\obj\Debug\net6.0\Lesson_1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Программирование\C#\GB_program\Lesson_1\obj\Debug\net6.0\Lesson_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Программирование\C#\GB_program\Lesson_1\obj\Debug\net6.0\Lesson_1.dll
+C:\Users\Admin\Desktop\Программирование\C#\GB_program\Lesson_1\obj\Debug\net6.0\refint\Lesson_1.dll
+C:\Users\Admin\Desktop\Программирование\C#\GB_program\Lesson_1\obj\Debug\net6.0\Lesson_1.pdb
+C:\Users\Admin\Desktop\Программирование\C#\GB_program\Lesson_1\obj\Debug\net6.0\Lesson_1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Программирование\C#\GB_program\Lesson_1\obj\Debug\net6.0\ref\Lesson_1.dll
+C:\Users\Admin\Desktop\Программирование\C#\GB_program\GB_Lessons\Lesson_0\bin\Debug\net6.0\Lesson_1.exe
+C:\Users\Admin\Desktop\Программирование\C#\GB_program\GB_Lessons\Lesson_0\bin\Debug\net6.0\Lesson_1.deps.json
+C:\Users\Admin\Desktop\Программирование\C#\GB_program\GB_Lessons\Lesson_0\bin\Debug\net6.0\Lesson_1.runtimeconfig.json
+C:\Users\Admin\Desktop\Программирование\C#\GB_program\GB_Lessons\Lesson_0\bin\Debug\net6.0\Lesson_1.dll
+C:\Users\Admin\Desktop\Программирование\C#\GB_program\GB_Lessons\Lesson_0\bin\Debug\net6.0\Lesson_1.pdb
+C:\Users\Admin\Desktop\Программирование\C#\GB_program\GB_Lessons\Lesson_0\obj\Debug\net6.0\Lesson_1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Программирование\C#\GB_program\GB_Lessons\Lesson_0\obj\Debug\net6.0\Lesson_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Программирование\C#\GB_program\GB_Lessons\Lesson_0\obj\Debug\net6.0\Lesson_1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Программирование\C#\GB_program\GB_Lessons\Lesson_0\obj\Debug\net6.0\Lesson_1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Программирование\C#\GB_program\GB_Lessons\Lesson_0\obj\Debug\net6.0\Lesson_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Программирование\C#\GB_program\GB_Lessons\Lesson_0\obj\Debug\net6.0\Lesson_1.dll
+C:\Users\Admin\Desktop\Программирование\C#\GB_program\GB_Lessons\Lesson_0\obj\Debug\net6.0\refint\Lesson_1.dll
+C:\Users\Admin\Desktop\Программирование\C#\GB_program\GB_Lessons\Lesson_0\obj\Debug\net6.0\Lesson_1.pdb
+C:\Users\Admin\Desktop\Программирование\C#\GB_program\GB_Lessons\Lesson_0\obj\Debug\net6.0\Lesson_1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Программирование\C#\GB_program\GB_Lessons\Lesson_0\obj\Debug\net6.0\ref\Lesson_1.dll
