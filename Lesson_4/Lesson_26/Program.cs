@@ -12,4 +12,4 @@ while (n1/10 != 0)
     }
 Console.WriteLine("Рассматриваемое число: " + n);
 Console.WriteLine("Количество: " + k);
-Console.WriteLine($"Результат: {count}");
+// Console.WriteLine($"Результат: {count}");
